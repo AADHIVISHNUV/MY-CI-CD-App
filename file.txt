@@ -1,5 +1,0 @@
-First commit
-<<<<<<< HEAD
-Second commit
-=======
->>>>>>> fd05871 (Commit 1: Added first line)
